@@ -1,10 +1,10 @@
 # [Ahoj](https://en.wiktionary.org/wiki/ahoj)! 👋
 
-Hi there! My name is Vít Rozsíval<sup>*</sup> I come from the [Czech Republic](https://en.wikipedia.org/wiki/Czech_Republic) 🇨🇿. I'm currently working as **Senior Software Engineer** at [ApiTree](https://github.com/apitreecz).
+Hi there! My name is Vít Rozsíval<sup>[1]</sup> I come from the [Czech Republic](https://en.wikipedia.org/wiki/Czech_Republic) 🇨🇿. I'm currently working as **Senior Software Engineer** at [ApiTree](https://github.com/apitreecz).
 
 I've been developing web and mobile apps using various technologies for more than 10 years now. I'm also very active in the open-source community while contributing to numerous repositories some of which I am the [co-author of](https://github.com/wavevision).
 
-> <sup>*</sup> <a href="https://en.wikipedia.org/wiki/International_Phonetic_Alphabet">IPA</a>: [viːt rosiːval]
+> <sup>[1]</sup> <a href="https://en.wikipedia.org/wiki/International_Phonetic_Alphabet">IPA</a>: [viːt rosiːval]
 
 ## Bio 💁‍♂️
 
