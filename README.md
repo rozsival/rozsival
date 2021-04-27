@@ -1,16 +1,14 @@
-### Hi there 👋
+# [Ahoj](https://en.wiktionary.org/wiki/ahoj)! 👋
 
-<!--
-**rozsival/rozsival** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! My name is Vít Rozsíval. I come from the [Czech Republic](https://en.wikipedia.org/wiki/Czech_Republic) 🇨🇿. I'm currently working as **Senior Software Engineer** at [ApiTree](https://github.com/apitreecz).
 
-Here are some ideas to get you started:
+I've been developing web and mobile apps using various technologies for more than 10 years now. I'm also very active in the open-source community while contributing to numerous repositories some of which I am the [co-author of](https://github.com/wavevision).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Bio 💁‍♂️
+
+- 🔭 Currently working on [Monfit App](https://monfit.cz/aplikace/)
+- ♥️ Big fan of [React](https://github.com/facebook/react) and [TypeScript](https://github.com/microsoft/TypeScript)
+- 🌱 Trying to learn how to live a self-sufficient life
+- 🐶 Dog lover
+- 👶 '90s kid
+- 📫 Reach me using any channel listed on [my website](http://vitrozsival.cz)
