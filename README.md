@@ -10,7 +10,8 @@ I've been developing web and mobile apps using various technologies for more tha
 
 - 🔭 Currently working on [Monfit App](https://monfit.cz/aplikace/)
 - ♥️ Big fan of [React](https://github.com/facebook/react) and [TypeScript](https://github.com/microsoft/TypeScript)
-- 🌱 Trying to learn how to live a self-sufficient life
+- 🌱 Learning how to live a self-sufficient life
 - 🐶 Dog lover
-- 👶 '90s kid
-- 📫 Reach me using any channel listed on [my website](http://vitrozsival.cz)
+- 🕹️ '90s kid
+- 👨‍🍳 House Chef
+- 📫 Reach me through [my website](http://vitrozsival.cz)
