@@ -8,9 +8,9 @@ I've been developing web and mobile apps using various technologies for more tha
 
 ## Bio 💁‍♂️
 
-- 🔭 Currently working on [Monfit App](https://monfit.cz/aplikace/)
+- 🔭 Working on [Monfit App](https://monfit.cz/aplikace/)
 - ♥️ [React](https://github.com/facebook/react) and [TypeScript](https://github.com/microsoft/TypeScript)
-- 🌱 Interested in self-sufficient life
+- 🌱 Interested in self-sufficiency
 - 🐶 Dog lover
 - 🕹️ '90s kid
 - 👨‍🍳 House Chef
