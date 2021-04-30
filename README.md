@@ -8,10 +8,10 @@ I've been developing web and mobile apps using various technologies for more tha
 
 ## Bio 💁‍♂️
 
-- 🔭 Working on [Monfit App](https://monfit.cz/aplikace/)
-- ♥️ [React](https://github.com/facebook/react) and [TypeScript](https://github.com/microsoft/TypeScript)
-- 🌱 Interested in self-sufficiency
-- 🐶 Dog lover
-- 🕹️ '90s kid
-- 👨‍🍳 House Chef
-- 📫 Contacts on [my website](http://vitrozsival.cz)
+- 🔭  Working on [Monfit App](https://monfit.cz/aplikace/)
+- ♥️  [React](https://github.com/facebook/react) and [TypeScript](https://github.com/microsoft/TypeScript)
+- 🌱  Interested in self-sufficiency
+- 🐶  Dog lover
+- 🕹️  '90s kid
+- 👨‍🍳  House Chef
+- 📫  Contacts on [my website](http://vitrozsival.cz)
