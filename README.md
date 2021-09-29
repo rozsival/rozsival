@@ -8,7 +8,6 @@ I've been developing web and mobile apps using various technologies for more tha
 
 ## Bio 💁‍♂️
 
-- 🔭 &nbsp;Improving [Monfit (Beta)](https://monfit.cz/aplikace/)
 - ♥️ &nbsp;[React](https://github.com/facebook/react) and [TypeScript](https://github.com/microsoft/TypeScript)
 - 🌱 &nbsp;Interested in self-sufficiency
 - 🐶 &nbsp;Dog lover
