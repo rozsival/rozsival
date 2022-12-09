@@ -14,3 +14,9 @@ I've been developing web and mobile apps using various technologies for more tha
 - 🕹️ &nbsp;'90s kid
 - 👨‍🍳 &nbsp;House Chef
 - 📫 &nbsp;Contacts on [my website](http://vitrozsival.cz)
+
+## Stats
+
+[![Vít's GitHub stats](https://github-readme-stats.vercel.app/api?username=rozsival&theme=dark&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=rozsival&theme=dark&border_radius=4)](https://git.io/streak-stats)
+
