@@ -1,4 +1,4 @@
-# [Ahoj](https://en.wiktionary.org/wiki/ahoj#Czech)! 👋
+# [Ahoj](https://en.wiktionary.org/wiki/ahoj#Czech) 👋
 
 Hi there! My name is Vít Rozsíval<sup>[1]</sup>. I come from the [Czech Republic](https://en.wikipedia.org/wiki/Czech_Republic) 🇨🇿. I'm a **Senior Software Engineer** at [ApiTree](https://github.com/apitreecz).
 
