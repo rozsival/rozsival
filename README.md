@@ -9,10 +9,12 @@ I've been developing web and mobile apps using various technologies for more tha
 ## Bio 💁‍♂️
 
 - ♥️ &nbsp;[React](https://github.com/facebook/react) and [TypeScript](https://github.com/microsoft/TypeScript)
-- 🌱 &nbsp;Interested in self-sufficiency
+- 🏋️ &nbsp;[CrossFit Los Podolos](https://lospodolos.cz)
+- 🤿 &nbsp;Junior scuba diver
 - 🐶 &nbsp;Dog lover
 - 🕹️ &nbsp;'90s kid
 - 👨‍🍳 &nbsp;House Chef
+- 🌱 &nbsp;Interested in self-sufficiency
 - 📫 &nbsp;Contacts on [my website](http://vitrozsival.cz)
 
 ---
