@@ -19,6 +19,6 @@ I've been developing web and mobile apps using various technologies for more tha
 
 ---
 
-[![Vít's GitHub stats](https://github-readme-stats.vercel.app/api?username=rozsival&theme=dark&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Vít's GitHub stats](https://github-readme-stats-vitrozsival.vercel.app/api?username=rozsival&theme=dark&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com?user=rozsival&theme=dark&border_radius=4)](https://git.io/streak-stats)
 
