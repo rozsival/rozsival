@@ -10,7 +10,7 @@ I've been developing web and mobile apps using various technologies for more tha
 
 - ♥️ &nbsp;[React](https://github.com/facebook/react) and [TypeScript](https://github.com/microsoft/TypeScript)
 - 🏋️ &nbsp;[CrossFit Los Podolos](https://lospodolos.cz)
-- 🤿 &nbsp;Junior scuba diver
+- 🤿 &nbsp;OWD
 - 🐶 &nbsp;Dog lover
 - 🕹️ &nbsp;'90s kid
 - 👨‍🍳 &nbsp;House Chef
