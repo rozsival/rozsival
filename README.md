@@ -14,9 +14,3 @@ Hi there! My name is Vít Rozsíval<sup>[1]</sup>. I come from the [Czech Republ
 - 👨‍🍳 &nbsp;House Chef
 - 🌱 &nbsp;Interested in self-sufficiency
 - 📫 &nbsp;Contacts on [my website](http://vitrozsival.cz)
-
----
-
-[![Vít's GitHub stats](https://github-readme-stats-vitrozsival.vercel.app/api?username=rozsival&theme=dark&show_icons=true&include_all_commits=true&v=20230116)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com?user=rozsival&theme=dark&border_radius=4)](https://git.io/streak-stats)
-
