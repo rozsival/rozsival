@@ -1,11 +1,11 @@
 # [Ahoj](https://en.wiktionary.org/wiki/ahoj#Czech) 👋
 
 Hi there! My name is Vít Rozsíval<sup>[1]</sup>. I come from
-the [Czech Republic](https://en.wikipedia.org/wiki/Czech_Republic) 🇨🇿. I'm a **Senior Full-stack Developer & AI
-Engineer** at [ApiTree](https://github.com/apitreecz). I've been building web and mobile apps for more than 15 years,
+the [Czech Republic](https://en.wikipedia.org/wiki/Czech_Republic) 🇨🇿. I'm a **Full-stack Developer & AI
+Engineer**. I've been building web and mobile apps for more than 15 years,
 focusing on clean architecture and sustainable solutions.
 
-These days I mostly build **AI agents** – for clients and for us internally – and help people use AI sensibly: no hype,
+These days I mostly build **AI agents** and help people use AI sensibly: no hype,
 with one eye on the economics and the other on long-term sustainability. Still a programmer by profession and by heart.
 
 > <sup>[1]</sup> <a href="https://en.wikipedia.org/wiki/International_Phonetic_Alphabet">IPA</a>: [viːt rosiːval]
