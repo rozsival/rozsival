@@ -1,7 +1,7 @@
 # [Ahoj](https://en.wiktionary.org/wiki/ahoj#Czech) 👋
 
 Hi there! My name is Vít Rozsíval<sup>[1]</sup>. I come from
-the [Czech Republic](https://en.wikipedia.org/wiki/Czech_Republic) 🇨🇿. I'm a **Full-stack Developer & AI
+the [Czech Republic](https://en.wikipedia.org/wiki/Czech_Republic) 🇨🇿. I'm a **Full-stack & AI
 Engineer**. I've been building web and mobile apps for more than 15 years,
 focusing on clean architecture and sustainable solutions.
 
